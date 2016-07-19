@@ -1,2 +1,1 @@
-# learnNodeJS 
-Day 1
+# I started learning Node.js!
