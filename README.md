@@ -14,13 +14,13 @@ console.log("Listening on port 8080...");
 
 #####Day 2 - Synchronous & Asynchronous
 ```
-Synchronous Example
+- Synchronous Example
 var myNumber = 1
 function addOne() { myNumber++ } // define the function
 addOne() // run the function
 console.log(myNumber) // logs out 2
 
-Asynchronous Example
+- Asynchronous Example
 var fs = require('fs') // require is a special function provided by node
 var myNumber = undefined // we don't know what the number is yet since it is stored in a file
 
