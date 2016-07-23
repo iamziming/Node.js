@@ -1,5 +1,5 @@
 #Node.js
-#####Day 1
+#####1. How to send request
 ```JavaScript
 var http = require("http");   //how we require modules
 
@@ -12,7 +12,7 @@ http.createServer(function(request, response){
 console.log("Listening on port 8080...");
 ```
 
-#####Day 2 - Synchronous & Asynchronous
+#####2. Synchronous & Asynchronous
 ######Synchronous Example
 ```JavaScript
 var myNumber = 1
